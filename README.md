@@ -8,9 +8,13 @@ pip3 install grpcio grpcio-tools
 
 ---
 ## Examples
+
 Example 1: ProtoBuff
+
 Example 2: Unary
+
 Example 3: Bidirectional
+
 Example 4: Bidirectional using Stack and asynchronous calls
 
 ---
